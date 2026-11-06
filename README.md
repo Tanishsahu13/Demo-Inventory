@@ -5,7 +5,15 @@ A **full-stack inventory and rental management web app** — manage items, booki
 ### 🔗 Live Demo: [demo-inventory-five.vercel.app](https://demo-inventory-five.vercel.app)
 
 > ⚠️ The demo **wipes itself clean every day at midnight (IST)** — items, bookings and staff accounts reset daily, so feel free to try everything.
-> Staff login for the demo is available on request.
+
+### 🔑 Demo Login
+
+| | |
+|---|---|
+| **Username** | `demo@gmail.com` |
+| **Password** | `demo@123` |
+
+Log in as staff/owner to try the full system — inventory, bookings, payments and staff management. Everything you change is wiped at midnight IST.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
